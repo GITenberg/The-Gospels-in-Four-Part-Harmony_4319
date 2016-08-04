@@ -1,0 +1,23 @@
+_repo: The-Gospels-in-Four-Part-Harmony_4319
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clontz, J. (Jerry)
+    alias: Clontz, Jerry
+    gutenberg_agent_id: '1439'
+    url: http://www.gutenberg.org/2009/agents/1439
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4319'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Bible. Gospels -- Harmonies, English'
+- !lcc 'BS'
+- GITenberg
+title: The Gospels in Four Part Harmony
+url: http://www.gutenberg.org/ebooks/4319
