@@ -1,5 +1,8 @@
 _repo: The-Gospels-in-Four-Part-Harmony_4319
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Clontz, J. (Jerry)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '1439'
     url: http://www.gutenberg.org/2009/agents/1439
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4319#The-Gospels-in-Four-Part-Harmony
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
